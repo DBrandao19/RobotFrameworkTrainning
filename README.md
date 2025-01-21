@@ -1,2 +1,2 @@
 # RobotFrameworkTrainning
-Formação robotforamework
+Formação robotframework
